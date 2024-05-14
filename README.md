@@ -1,7 +1,9 @@
 # Quicktask
 
 A new Flutter CPAD assginment.
-Cross Platform Application Development Assignment on Quick Task By Afreen Sawant Id: 2023mt93427 Email Id : 2023mt93427@wilp.bits-pilani.ac.in
+Cross Platform Application Development Assignment on Quick Task 
+
+## By Afreen Sawant Id: 2023mt93427 Email Id : 2023mt93427@wilp.bits-pilani.ac.in
 
 ## Getting Started
 
